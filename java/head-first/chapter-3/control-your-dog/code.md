@@ -1,0 +1,1 @@
+so this code is meant to store the n number of dogs name need to be stored in program and perform certain actions on it.
